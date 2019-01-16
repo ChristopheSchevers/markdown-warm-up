@@ -8,7 +8,7 @@
 Op regelmatige basis, laatste keer was 12 januari.
 
 - **Hoe heb je het gevonden**<br>
-Via stackoverflow.com
+Via [Stackoverflow](stackoverflow.com/)
 
 - **Waarom heeft deze website updates of een rework nodig?** <br>
 Veel te druk, onoverzichtelijk, te veel kleur en niet professioneel. <br>
