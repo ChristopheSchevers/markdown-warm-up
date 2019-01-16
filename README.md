@@ -4,7 +4,7 @@
 - <font size = "4" color=GREEN>**Welke website hebben wij gekozen?**</font> <br>
  [Lingcars](https://www.lingscars.com/)
 
-- **Wordt het regelmatig bijgewerkt?** <br>
+- **<font size = "6">Wordt het regelmatig bijgewerkt?** </font><br>
 Op regelmatige basis, laatste keer was 12 januari.
 
 - **Hoe heb je het gevonden**<br>
