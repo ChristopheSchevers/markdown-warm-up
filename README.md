@@ -1,10 +1,10 @@
 # markdown-warm-up
 
 
-- **Welke website hebben wij gekozen?** <br>
+- <font size = "4" color=GREEN>**Welke website hebben wij gekozen?**</font> <br>
  [Lingcars](https://www.lingscars.com/)
 
-- **Wordt het regelmatig bijgewerkt?** <br>
+- **<font size = "6">Wordt het regelmatig bijgewerkt?** </font><br>
 Op regelmatige basis, laatste keer was 12 januari.
 
 - **Hoe heb je het gevonden**<br>
@@ -33,6 +33,9 @@ Ja, op [Facebook](https://www.facebook.com/lingscars/) en [Twitter](https://twit
 
 
 ![Lingcars](https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/13007237_824036854392888_4843025359792640940_n.jpg?_nc_cat=108&_nc_ht=scontent-ams3-1.xx&oh=583e2b0790e5c7fcc54191efb53affb3&oe=5CCDC040) 
+
+
+---
 
 
       
