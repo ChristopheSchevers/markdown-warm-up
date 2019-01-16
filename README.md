@@ -11,10 +11,10 @@ Op regelmatige basis, laatste keer was 12 januari.
 Via [Stackoverflow](stackoverflow.com/)
 
 - **Waarom heeft deze website updates of een rework nodig?** <br>
-Veel te druk, onoverzichtelijk, te veel kleur en niet professioneel. <br>
+Veel te druk, onoverzichtelijk, te veel kleur, te veel persoonlijke info en niet professioneel. <br>
 
 - **Is deze website aanwezig op social media?** <br>
-Ja, op [Facebook](https://www.facebook.com/lingscars/) en [Twitter](https://twitter.com/LINGsCARS).
+Ja, op [Facebook](https://www.facebook.com/lingscars/) en [Twitter](https://twitter.com/LINGsCARS) , [Youtube](https://www.youtube.com/user/LINGsCARS).
 
 - **Maak een lijst met aanbevelingen van toekomstige wijzigingen.**<br>
     - Maak een volledige remake.<br>
@@ -22,9 +22,13 @@ Ja, op [Facebook](https://www.facebook.com/lingscars/) en [Twitter](https://twit
     - Hou het professioneel<br>
     - Meer structuur het navigatie systeem. <br>
     - 2 the point. 
+
+    
+
     - Te druk
 
 - **Groepslijst**<br> - Manuel<br> - Deborah<br> - Nick<br> - Christophe
+
 
 
 
